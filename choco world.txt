@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <title> Chocolate world</title>
+</head>
+<body>
+  <h1> Chocolate World!!! </h1>
+  <p><h4> I have created this webpage to tell everyone that chocolate is amazing and it should be free just like water </h4> </p>
+  <p> The following list are reasons why chocolate is so amazing: 
+  <ol>
+    <li> Its beautiful</li>
+    <li> It tastes incredible</li>
+    <li> It makes you smile</li> </ol>
+  <br/>
+  Chocolate has many benefits, <a href="http://www.telegraph.co.uk/food-and-drink/healthy-eating/chocolate-10-health-reasons-you-should-eat-more-of-it/" target="_blank"> click this link </a> to find out more.
+  </p>
+<br/>
+<a href="https://www.google.co.uk/search?q=chocolate&espv=2&biw=1440&bih=770&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjaovWKj9nRAhULK8AKHcnyD3YQ_AUIBigB#imgrc=buhJ1bkImSYGEM%3A" <img src="http://www.jorvik.co.uk/wp-content/uploads/2013/02/Chocolate-City.jpg" alt= "beautiful chocolate"/> </a> 
+<!--this chocolate obsession needs to stop lol--> 
+</body> 
+</html>
